@@ -11,3 +11,8 @@ Badminton is a fast-paced sport where players use rackets to hit a shuttlecock o
 - Viktor axelsen
 - Lee Chong wei
 - Taufik
+
+- mumbai
+- delhi
+- vijayawada
+- chennai

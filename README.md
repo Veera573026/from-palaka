@@ -7,10 +7,12 @@ Badminton is a fast-paced sport where players use rackets to hit a shuttlecock o
 
 --------   ----- ------- ---
 # Badminton best players are
-- Lin Dan
-- Viktor axelsen
-- Lee Chong wei
-- Taufik
+- 1.Lin Dan
+- 2.Viktor axelsen
+- 3.Lee Chong wei
+- 4.Taufik
+
+
 
 - mumbai
 - delhi

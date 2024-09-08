@@ -16,4 +16,11 @@ Below iam writing favourite restaurants which is famous for biryani,and i would 
 | Zamindar | I recommend prawns Biryani because it is a delious food and made with marinated prawns | Charminar|
 | Cafe Bahar | I recommend mushroom Biryani, which is so yummy | Madhapur |
 
+---
+
+### My Favorite quatations
+>"Pawan Kalyan is a man of principles and a true fighter." - _Chiranjeevi_
+
+>"Let the world change you and you can change the world." - _Che Guevara_
+
 

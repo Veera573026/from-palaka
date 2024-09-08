@@ -23,4 +23,24 @@ Below iam writing favourite restaurants which is famous for biryani,and i would 
 
 >"Let the world change you and you can change the world." - _Che Guevara_
 
+---
+
+### Code snippet
+How to call a conditional function using Dart source code
+```
+void func1(){
+ print("func 1 called");
+}
+
+void func2(){
+ print("func 2 called");
+}
+
+void main() {
+ const someValue = 3;
+ (someValue == 4? func1 : func2)();
+}
+```
+Reference link to snippet <https://code.pieces.app/collections/dart>
+
 

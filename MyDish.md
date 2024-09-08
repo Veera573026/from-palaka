@@ -18,7 +18,7 @@ Below iam writing favourite restaurants which is famous for biryani,and i would 
 
 ---
 
-### My Favorite quatations
+### My Favorite quotations
 >"Pawan Kalyan is a man of principles and a true fighter." - _Chiranjeevi_
 
 >"Let the world change you and you can change the world." - _Che Guevara_
